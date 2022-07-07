@@ -18,7 +18,7 @@ persist-tun
 client
 verb 3
 
-&<ca&>
+<ca>
 \-----BEGIN CERTIFICATE----\-
 MIIF3jCCA8agAwIBAgIQAf1tMPyjylGoG7xkDjUDLTANBgkqhkiG9w0BAQwFADCB
 iDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCk5ldyBKZXJzZXkxFDASBgNVBAcTC0pl
@@ -54,9 +54,9 @@ L6KCq9NjRHDEjf8tM7qtj3u1cIiuPhnPQCjY/MiQu12ZIvVS5ljFH4gxQ+6IHdfG
 jjxDah2nGN59PRbxYvnKkKj9
 \-----END CERTIFICATE----\-
 
-&<\/\ca&>
+<\/\ca>
 
-&<cert&>
+<cert>
 \-----BEGIN CERTIFICATE----\-
 MIICxjCCAa4CAQAwDQYJKoZIhvcNAQEFBQAwKTEaMBgGA1UEAxMRVlBOR2F0ZUNs
 aWVudENlcnQxCzAJBgNVBAYTAkpQMB4XDTEzMDIxMTAzNDk0OVoXDTM3MDExOTAz
@@ -75,9 +75,9 @@ Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 6zZeZkrN43kuS73KpKDFjfFPh8t4r1gOIjttkNcQqBccusnplQ7HJpsk
 \-----END CERTIFICATE----\-
 
-&<\/\cert&>
+<\/\cert>
 
-&<key&>
+<key>
 \-----BEGIN RSA PRIVATE KEY----\-
 MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
 wReNVa9fDRFLRBhcITOlv3FBcW3E8h1Us7RD4W8GmJe8zapJnLsD39OSMRCzZJnc
@@ -106,7 +106,7 @@ wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 \-----END RSA PRIVATE KEY----\-
 
-&<\/\key&>
+<\/\key>
 
 "
 }
