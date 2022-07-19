@@ -102,8 +102,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>"},
 
 {"id":1,"file":"dev tun
-proto udp
-remote 219.100.37.7 1195
+proto tcp
+remote 219.100.37.185 443
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -171,7 +171,6 @@ Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 -----END CERTIFICATE-----
 
 </cert>
-
 
 <key>
 -----BEGIN RSA PRIVATE KEY-----
