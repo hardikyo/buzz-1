@@ -16,7 +16,16 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"hardik vpn","country":"Japan","image":"unitedstates","ip":"219.100.37.194","active":"true","signal":"a"},
-{"id":1, "file":0, "city":"abhi vpn","country":"Japan","image":"canada","ip":"219.100.37.185","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"HARDIK VPN SERVER USA","country":"Japan","image":"unitedstates","ip":"219.100.37.194","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"ABHI VPN SERVER CANADA","country":"Japan","image":"canada","ip":"219.100.37.185","active":"true","signal":"a"},
+    {"id":3, "file":0, "city":"gujarat","country":"Japan","image":"japan","ip":"219.100.37.185","active":"true","signal":"a"},
+    {"id":4, "file":0, "city":"amreli","country":"Japan","image":"japan","ip":"219.100.37.185","active":"true","signal":"a"},
+    {"id":5, "file":0, "city":"rajkot","country":"Japan","image":"japan","ip":"219.100.37.185","active":"true","signal":"a"},
+    {"id":6, "file":0, "city":"junagadh","country":"Japan","image":"japan","ip":"219.100.37.185","active":"true","signal":"a"},
+    {"id":7, "file":0, "city":"bhurakhiya","country":"Japan","image":"japan","ip":"219.100.37.185","active":"true","signal":"a"},
+    {"id":8, "file":0, "city":"botad","country":"Japan","image":"japan","ip":"219.100.37.185","active":"true","signal":"a"},   
+    {"id":9, "file":0, "city":"amdavad","country":"Japan","image":"japan","ip":"219.100.37.185","active":"true","signal":"a"},
+    {"id":10, "file":0, "city":"surat","country":"Japan","image":"japan","ip":"219.100.37.185","active":"true","signal":"a"},
+    {"id":11, "file":0, "city":"devgam","country":"Japan","image":"japan","ip":"219.100.37.185","active":"true","signal":"a"}
   ]
 }
